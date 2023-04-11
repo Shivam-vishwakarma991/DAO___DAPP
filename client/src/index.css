@@ -6,7 +6,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background: rgb(34,193,195);
-background: radial-gradient(circle, rgba(34,193,195,1) 0%, rgba(104,45,253,1) 100%);
+background: radial-gradient(circle, rgba(34,193,195,1) 0%, rgb(33, 27, 48) 100%);
 }
 
 code {
