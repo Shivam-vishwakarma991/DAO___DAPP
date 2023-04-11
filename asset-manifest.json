@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DAO___DAPP/static/css/main.edcf157e.css",
+    "main.js": "/DAO___DAPP/static/js/main.333b314f.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/DAO___DAPP/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/DAO___DAPP/index.html",
+    "main.edcf157e.css.map": "/DAO___DAPP/static/css/main.edcf157e.css.map",
+    "main.333b314f.js.map": "/DAO___DAPP/static/js/main.333b314f.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/DAO___DAPP/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edcf157e.css",
+    "static/js/main.333b314f.js"
+  ]
+}
