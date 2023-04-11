@@ -84,17 +84,17 @@ function App() {
   return (
     <div className="App">
    <h1>Decentralize Autonoumous Organization</h1>
-   <p className="font">Connected Account: {account}</p>
-   <p className="font">Available Funds: {balance} ETH</p>
+   <p >Connected Account: {account}</p>
+   <p >Available Funds: {balance} ETH</p>
    <form className="label0" id="myForm">
         <label htmlFor=""></label>
         <select className="innerBox" id="selectNumber" onChange={selectAccount}>
           <option align="center">Choose an account</option>
         </select>
       </form>
-      <p className="font">For Manager</p>
+      <p style={{ color: 'rgb(7, 7, 39)', textAlign: 'center', fontSize: '25px', fontWeight: 'bold' }} >For Manager</p>
       <Manager state={state} account={account}></Manager>
-      <p className="font">For Investors</p>
+      <p style={{ color: 'rgb(7, 7, 39)', textAlign: 'center', fontSize: '25px', fontWeight: 'bold' }} >FOR INVESTORS</p>
      <Investors state={state} account={account}></Investors>
     
     </div>
